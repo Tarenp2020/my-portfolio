@@ -32,6 +32,7 @@ a {
     padding: 4px;
     text-decoration: none;
     text-align: center;
+    background-color: rgb(230, 251, 251);
 }
 
 a:hover {
@@ -44,6 +45,7 @@ a:hover {
 nav {
     text-align: center;
     margin: 20px;
+    background-color: #a4dcfa;
 }
 
 p {
